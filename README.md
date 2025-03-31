@@ -21,7 +21,7 @@ npm install  # or pip install -r requirements.txt if using Python
 
 
 3. **Run the application**
-
+```bash
 npm start  # or python main.py if using Python
 
 
