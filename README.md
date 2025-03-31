@@ -29,7 +29,3 @@ npm start  # or python main.py if using Python
 - 🌐 **HTML** – Structure of the web page.  
 - 🎨 **CSS** – Styling and layout.  
 - 🚀 **JavaScript (Vanilla JS)** – Adds interactivity and animations.  
-
-📸 Screenshots
-
-(Add images or GIFs showcasing your project)
