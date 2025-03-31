@@ -16,12 +16,12 @@ Valentine Project is a an interactive application that helps couples celebrate V
    cd valentine-day
 
 2. **Install dependencies**
-```bash
+
 npm install  # or pip install -r requirements.txt if using Python
 
 
 3. **Run the application**
-```bash
+
 npm start  # or python main.py if using Python
 
 
