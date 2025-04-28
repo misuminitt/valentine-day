@@ -1,0 +1,24 @@
+{
+  "name": "valentine-day",
+  "version": "1.0.0",
+  "description": "Valentine Project is a an interactive application that helps couples celebrate Valentine's Day in a unique and personal way.",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misuminitt/valentine-day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misuminitt/valentine-day/issues"
+  },
+  "homepage": "https://github.com/misuminitt/valentine-day#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
